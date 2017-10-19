@@ -1835,14 +1835,25 @@
   width:156px;
   word-wrap:break-word;
 }
-#u112_img {
+#u112 {
+  position:fixed;
+  left:0px;
+  top:0px;
+}
+#u112_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+#u112_state0_content {
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
-  height:40px;
+  width:1px;
+  height:1px;
 }
-#u112 {
+#u113_img {
   position:absolute;
   left:0px;
   top:0px;
@@ -1850,6 +1861,13 @@
   height:40px;
 }
 #u113 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:40px;
+}
+#u114 {
   position:absolute;
   left:2px;
   top:12px;
