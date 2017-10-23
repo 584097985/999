@@ -43,3 +43,12 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u18 {
+  position:absolute;
+  left:15px;
+  top:276px;
+  width:293px;
+  height:70px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
